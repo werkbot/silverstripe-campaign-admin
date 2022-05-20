@@ -152,9 +152,9 @@ class CampaignAdmin extends LeftAndMain implements PermissionProvider
     public function init()
     {
         parent::init();
-        Requirements::add_i18n_javascript('silverstripe/campaign-admin: client/lang', false, true);
-        Requirements::javascript('silverstripe/campaign-admin: client/dist/js/bundle.js');
-        Requirements::css('silverstripe/campaign-admin: client/dist/styles/bundle.css');
+        Requirements::add_i18n_javascript('werkbot/campaign-admin: client/lang', false, true);
+        Requirements::javascript('werkbot/campaign-admin: client/dist/js/bundle.js');
+        Requirements::css('werkbot/campaign-admin: client/dist/styles/bundle.css');
     }
 
     public function getEditForm($id = null, $fields = null)

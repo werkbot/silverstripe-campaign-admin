@@ -1,5 +1,5 @@
 {
-    "name": "silverstripe/campaign-admin",
+    "name": "werkbot/campaign-admin",
     "description": "SilverStripe campaign admin interface",
     "type": "silverstripe-vendormodule",
     "homepage": "http://silverstripe.org",

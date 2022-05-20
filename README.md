@@ -4,10 +4,10 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/silverstripe/silverstripe-campaign-admin/badges/quality-score.png?b=1)](https://scrutinizer-ci.com/g/silverstripe/silverstripe-campaign-admin/?branch=1)
 [![codecov](https://codecov.io/gh/silverstripe/comment-notifications/branch/master/graph/badge.svg)](https://codecov.io/gh/silverstripe/comment-notifications)
 [![SilverStripe supported module](https://img.shields.io/badge/silverstripe-supported-0071C4.svg)](https://www.silverstripe.org/software/addons/silverstripe-commercially-supported-module-list/)
-[![Latest Stable Version](https://poser.pugx.org/silverstripe/campaign-admin/version.svg)](http://www.silverstripe.org/stable-download/)
-[![Latest Unstable Version](https://poser.pugx.org/silverstripe/campaign-admin/v/unstable.svg)](https://packagist.org/packages/silverstripe/campaign-admin)
-[![Total Downloads](https://poser.pugx.org/silverstripe/campaign-admin/downloads.svg)](https://packagist.org/packages/silverstripe/campaign-admin)
-[![License](https://poser.pugx.org/silverstripe/campaign-admin/license.svg)](https://github.com/silverstripe/silverstripe-campaign-admin#license)
+[![Latest Stable Version](https://poser.pugx.org/werkbot/campaign-admin/version.svg)](http://www.silverstripe.org/stable-download/)
+[![Latest Unstable Version](https://poser.pugx.org/werkbot/campaign-admin/v/unstable.svg)](https://packagist.org/packages/werkbot/campaign-admin)
+[![Total Downloads](https://poser.pugx.org/werkbot/campaign-admin/downloads.svg)](https://packagist.org/packages/werkbot/campaign-admin)
+[![License](https://poser.pugx.org/werkbot/campaign-admin/license.svg)](https://github.com/silverstripe/silverstripe-campaign-admin#license)
 
 ## Overview
 
@@ -20,7 +20,7 @@ prepared for publishing in advance.
 ## Installation
 
 ```
-$ composer require silverstripe/campaign-admin
+$ composer require werkbot/campaign-admin
 ```
 
 You'll also need to run `dev/build`.
